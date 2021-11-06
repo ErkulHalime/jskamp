@@ -76,7 +76,7 @@ add(20,30)
 //add(20,30, 40, 50)
 
 let numbers = [30,10,500,600,120]
-//console.log(...numbers)
+console.log(...numbers)
 console.log(Math.max(...numbers))
 
 let [icAnadolu,marmara,karadeniz,[icAnadoluSehirleri]] = [
