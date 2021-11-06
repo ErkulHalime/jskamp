@@ -16,7 +16,7 @@ const euroDun = 11.2
 //euroDun = 11
 
 console.log(euroDun)
-
+console.log(euroDun)
 //array
 //camelCasing
 //PascalCasing
